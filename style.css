@@ -1,0 +1,41 @@
+body {
+  background-color: #00f5d4;
+}
+#calculator {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 2%;
+}
+#field {
+  background-color: #fee440;
+  color: #f15bb5;
+  padding: 30px;
+  width: 67.5%;
+}
+
+.operators div {
+  background-color: #f15bb5;
+  color: #fee440;
+  border-color: #fee440;
+  border: 1px solid;
+  display: inline-block;
+  padding: 30px;
+  gap: 40px;
+}
+.numbers div {
+  background-color: #fff;
+  color: #fee440;
+  border-color: #fee440;
+  border: 1px solid;
+  display: inline-block;
+  padding: 30px;
+}
+
+.equal {
+  background-color: #f15bb5;
+  color: #fee440;
+  border-color: #fee440;
+  border: 1px solid;
+  display: inline-block;
+  padding: 30px;
+}
